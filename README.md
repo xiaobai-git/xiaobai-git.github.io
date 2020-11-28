@@ -1,1 +1,1 @@
-# xiaobai-git.github.io
+# 使用vue、navigator.mediaDevices.getUserMedia调用摄像头、vedio显示视频流、canvas截取图片完成人脸识别
